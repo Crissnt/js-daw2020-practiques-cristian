@@ -1,9 +1,4 @@
 const funcP2Test = require('../../app/scripts/funciones/practica2.js');
-/*
-test('adds 1 + 2 to equal 3', () => {
-  expect(funcp2Test.sum(1, 2)).toBe(31);
-});
-*/
 
 test('compara el mapa devuelto con uno predefinido', () => {
   const array = ['pal1', 'pal2', 'pal1', 'pal3', 'pal4', 'pal2', 'pal1'];
